@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HotelReviewApp</string>
+    <string name="the_start_hotel_casino_amp_skypod"><![CDATA[THE START Hotel, Casino & SkyPod]]></string>
+    <string name="more_details">More Details</string>
+    <string name="_510">(510)</string>
+    <string name="_4_75">4.75</string>
+    <string name="top_of_the_world_is_known_as_one_of_the_most_romantic_restaurants_in_the_city_it_offers_an_intimate_dining_setting_paired_with_an_extravagant_view_of_the_entire_city_all_encompassed_in_360_degree">Top of the World is known as one of the most romantic restaurants in the city. It offers an intimate dining setting paired with an extravagant view of the entire city, all encompassed in 360-degree ...</string>
+    <string name="the_strat_hotel_casino_amp_skypod"><![CDATA[The STRAT Hotel, Casino & SkyPod]]></string>
+    <string name="about">About</string>
+    <string name="top_of_the_world_is_known_as_one_of_the_most_romantic_restaurants_in_the_city_it_offers_an_intimate_dining_setting_paired_with_an_extravagant_view_of_the_entire_city_all_encompassed_in_a_360_degree_revolving_frame_yes_that_s_right_this_restaurant_allows_diners_the_opportunity_to_see_las_vegas_in_its_entirety_if_they_re_able_to_stay_for_at_least_80_minutes_the_time_needed_for_one_full_rotation">Top of the World is known as one of the most romantic restaurants in the city. It offers an intimate dining setting paired with an extravagant view of the entire city, all encompassed in a 360-degree revolving frame. Yes, thatâ€™s right, this restaurant allows diners the opportunity to see Las Vegas in its entirety if theyâ€™re able to stay for at least 80 minutes, the time needed for one full rotation.</string>
+    <string name="venue_type">Venue Type</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="type_of_view">Type of View</string>
+    <string name="it_might_surprise_you_but_this_is_the_only_revolving_restaurant_in_las_vegas_located_844_feet_in_the_air_you_re_bound_to_get_a_great_view_of_the_city_with_its_massive_floor_to_ceiling_windows">It might surprise you, but this is the only revolving restaurant in Las Vegas. Located 844 feet in the air, youâ€™re bound to get a great view of the city with its massive floor-to-ceiling windows.</string>
+    <string name="ch_e_c_k_ro_a_d_m_a_p">CH E C K RO A D M A P</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+</resources>
